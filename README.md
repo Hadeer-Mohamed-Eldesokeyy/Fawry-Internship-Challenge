@@ -60,6 +60,9 @@ The `Main.java` file includes multiple test cases covering:
 5. Empty cart
 6. Cart with only non-shippable product
 
+   ![image](https://github.com/user-attachments/assets/c3260e09-e18f-4853-8a55-776a4b4bccbf)
+
+
 ## Notes
 
 - Solution written in Java using full OOP concepts
